@@ -17,7 +17,7 @@
 - 以下のリポジトリのFork、Cloneの実施
   - ※リポジトリのサイズが巨大なものも含まれているため、事前にForkおよびCloneの実施をお願いします。
   - https://github.com/kubernetes-sigs/contributor-playground 
-  - https://kubernetes/kubernetes
+  - https://github.com/kubernetes/kubernetes
 - (可能であれば)個人のWifiアクセスポイント
   - スマートホンやモバイルWifiなど
 
