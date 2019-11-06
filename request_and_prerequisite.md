@@ -12,7 +12,7 @@
   - golang
   - docker
 - Git、GitHubの使い方に慣れておいてください
-  - 以下の「貢献する」を参考にしてください
+  - 以下を参考にしてください。
   - https://github.com/kubernetes/community/blob/master/contributors/guide/contributor-cheatsheet/README-ja.md
   - https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md
 - CLA の事前実施
