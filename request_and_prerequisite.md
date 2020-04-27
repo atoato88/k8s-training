@@ -22,6 +22,8 @@
   - ※リポジトリのサイズが巨大なものも含まれているため、事前にForkおよびCloneの実施をお願いします。
   - https://github.com/kubernetes-sigs/contributor-playground 
   - https://github.com/kubernetes/kubernetes
+- KubernetesのSlackに参加してください。当日に利用します。
+  - https://slack.k8s.io/
 - (可能であれば)個人のWifiアクセスポイント
   - スマートホンやモバイルWifiなど
 
